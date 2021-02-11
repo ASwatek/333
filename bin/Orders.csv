@@ -1,0 +1,22 @@
+PartName,Make,Model,Year,Cost,Currency,Current Quantity,Requested Quantity,EmployeeAssignedTo,Employee Role,Client Alias,PO Box,Frequent,Banned,Client Phone,Budget,Deadline,InProgress
+Wipers,Ford,F-150,2001,10,C4,2,5,Freddy,Acquirer,Inferno,Box: 204 Elm Street,1,0,2147318636,2,04/30/2019,1
+Wipers,Ford,F-150,2001,10,C4,2,5,Joey,Mechanic,Inferno,Box: 204 Elm Street,1,0,2147318636,2,04/30/2019,1
+Wipers,Ford,F-150,2001,10,C4,2,5,Baby,Deliverer,Inferno,Box: 204 Elm Street,1,0,2147318636,2,04/30/2019,1
+Engine,Mazda,Miata,2001,5,USD,3,1,Freddy,Acquirer,Inferno,Box: 204 Elm Street,1,0,2147318636,2,05/17/2019,1
+Engine,Mazda,Miata,2001,5,USD,3,1,Jamie,Mechanic,Inferno,Box: 204 Elm Street,1,0,2147318636,2,05/17/2019,1
+Engine,Mazda,Miata,2001,5,USD,3,1,Dominos,Deliverer,Inferno,Box: 204 Elm Street,1,0,2147318636,2,05/17/2019,1
+Door,Jeep,Rubicon,2019,500,BitCoin,0,2,Jon,Acquirer,Michelle,Box: 204 Elm Street,0,0,8176964466,250,5/20/2019,1
+Door,Jeep,Rubicon,2019,500,BitCoin,0,2,Adam Savage,Mechanic,Michelle,Box: 204 Elm Street,0,0,8176964466,250,5/20/2019,1
+Door,Jeep,Rubicon,2019,500,BitCoin,0,2,Mod Pizza,Deliverer,Michelle,Box: 204 Elm Street,0,0,8176964466,250,5/20/2019,1
+Hub Cap,Nasa,Lunar Lander,1969,730000,USD,0,5,Neil Armstrong,Acquirer,Space Guy,Box 54 Nasa Head quarters,0,0,1111111111,93,02/12/2020,1
+Hub Cap,Nasa,Lunar Lander,1969,730000,USD,0,5,Neil Degrass Tyson,Mechanic,Space Guy,Box 54 Nasa Head quarters,0,0,1111111111,93,02/12/2020,1
+Hub Cap,Nasa,Lunar Lander,1969,730000,USD,0,5,Pizza Hut,Deliverer,Space Guy,Box 54 Nasa Head quarters,0,0,1111111111,93,02/12/2020,1
+Side View Mirror,Honda,Accord,2002,1,C4,59,2,Big Joe,Acquirer,I'll Kill Ya,box 23 123 Murder Lane,1,0,3894856889,8239,03/23/2022,1
+Side View Mirror,Honda,Accord,2002,1,C4,59,2,Big Joe 2,Mechanic,I'll Kill Ya,box 23 123 Murder Lane,1,0,3894856889,8239,03/23/2022,1
+Side View Mirror,Honda,Accord,2002,1,C4,59,2,Dominos,Deliverer,I'll Kill Ya,box 23 123 Murder Lane,1,0,3894856889,8239,03/23/2022,1
+Front Driver Window,Ferrari,Portofino,2018,309,CAD,0,2,Jon,Acquirer,Alice,box 3 1503 Pennsylvania Avenue SE,1,0,8122296855,2005,09/33/2025,1
+Front Driver Window,Ferrari,Portofino,2018,309,CAD,0,2,Adam Savage,Mechanic,Alice,box 3 1503 Pennsylvania Avenue SE,1,0,8122296855,2005,09/33/2025,1
+Front Driver Window,Ferrari,Portofino,2018,309,CAD,0,2,Pizza Hut,Deliverer,Alice,box 3 1503 Pennsylvania Avenue SE,1,0,8122296855,2005,09/33/2025,1
+Engine,Mazda,Miata,2017,5,USD,3,1,Jon,Acquirer,Michelle,box 2 1501 Pennyslvania Avenue NW,0,0,8157153642,50,,1
+Engine,Mazda,Miata,2017,5,USD,3,1,Jon the Second,Mechanic,Michelle,box 2 1501 Pennyslvania Avenue NW,0,0,8157153642,50,,1
+Engine,Mazda,Miata,2017,5,USD,3,1,Papa Johns,Deliverer,Michelle,box 2 1501 Pennyslvania Avenue NW,0,0,8157153642,50,,1
